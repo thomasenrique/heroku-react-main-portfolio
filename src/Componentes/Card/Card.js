@@ -8,7 +8,7 @@ class Card extends Component {
 
       <div>
         {/* {visible ? <> */}
-        <div className="card" style={{ width: "100%" }}>
+        <div className="card" style={{ width: "400px" }}>
 
           <img
             className="card-img-top"
